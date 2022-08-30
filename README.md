@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DusaPraharsh
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity 3D
+- 👀 I’m interested in Web3 Development
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
