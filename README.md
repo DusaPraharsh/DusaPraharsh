@@ -83,8 +83,3 @@
   }
 }
 </style>
-
-<!-- 🧪 CRT-style loading footer -->
-<p align="center">
-  <img src="https://i.imgur.com/oH6d3UE.gif" width="300" alt="Loading CRT" />
-</p>
