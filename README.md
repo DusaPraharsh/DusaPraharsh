@@ -1,5 +1,5 @@
 <!-- 🎮 Retro Pixel Banner -->
-<img src="./retro_gameboy_pixel_art.png" width="100%" alt="Retro Arcade Coder Banner" />
+<img src="./retro.png" width="100%" alt="Retro Arcade Coder Banner" />
 
 <!-- 🕹️ Name + Titles -->
 <h1 align="center">
