@@ -1,6 +1,6 @@
 <!-- Centered GameBoy Pixel Art -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/assets/gameboy.png" width="320" alt="GameBoy" />
+  <img src="./retro_gameboy_pixel_art.png" width="320" alt="GameBoy" />
 </p>
 
 <!-- Typing text overlay styled like it's on the GameBoy screen -->
