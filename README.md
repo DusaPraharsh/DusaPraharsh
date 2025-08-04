@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./your_pixel_banner.png" width="600" alt="Retro Arcade Coder Banner"/>
+  <img src="./retro.png" width="600" alt="Retro Arcade Coder Banner"/>
 </p>
 
 <h1 align="center">
