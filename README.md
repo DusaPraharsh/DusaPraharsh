@@ -1,37 +1,35 @@
+<!-- RETRO HEADER IMAGE -->
 <p align="center">
-  <img src="./retro.png" alt="retro coder" width="600"/>
+  <img src="./cdd8911b-d8a7-4de1-aaa1-4d37c034094c.png" width="600" />
 </p>
 
+<!-- TYPING ANIMATION TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Praharsh!;Frontend+Engineer+%2F+Solidity+Dev+%2F+Game+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Praharsh!;Solidity+Dev+%7C+Game+Dev+%7C+Fullstack+Wizard" alt="Typing SVG" />
 </h1>
 
----
-
-### 🎮 Skills Unlocked
-
+<!-- SCROLLING SKILLS SECTION -->
+<h3 align="center">🎯 SKILLS</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,unity,nextjs,js,ts,py,threejs&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=solidity,unity,nextjs,ts,js,threejs,tailwind,figma&perline=6&theme=dark" />
 </p>
 
----
-
-### 🕹️ Connect With Me (Arcade Style)
+<!-- BLINKING SOCIAL HUD -->
+<h3 align="center">📡 CONNECT</h3>
 
 <p align="center">
+  <a href="https://github.com/DusaPraharsh" target="_blank">
+    <img src="https://raw.githubusercontent.com/DusaPraharsh/retro-assets/main/btn_github.gif" alt="GitHub" width="100"/>
+  </a>
   <a href="https://x.com/dusapraharsh" target="_blank">
-    <img src="https://img.shields.io/badge/X-00FF00?style=for-the-badge&logo=x&logoColor=black&labelColor=000000" />
+    <img src="https://raw.githubusercontent.com/DusaPraharsh/retro-assets/main/btn_x.gif" alt="Twitter" width="100"/>
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://github.com/DusaPraharsh">
-    <img src="https://img.shields.io/badge/Github-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+    <img src="https://raw.githubusercontent.com/DusaPraharsh/retro-assets/main/btn_mail.gif" alt="Email" width="100"/>
   </a>
 </p>
 
----
-
+<!-- FAKE CRT FOOTER BAR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF00FF&height=3"/>
 </p>
