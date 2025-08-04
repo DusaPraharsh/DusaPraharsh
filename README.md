@@ -1,85 +1,58 @@
-<!-- 🕹️ Retro Pixel Arcade Banner -->
-<p align="center">
-  <img src="./retro.png" alt="Retro Banner" width="100%" />
-</p>
+<!-- 🔻 Retro Banner Image -->
+<img src="./retro.png" width="100%" alt="Retro Arcade Banner" />
 
-<!-- 👾 Glitchy Arcade-Style Name -->
-<h1 align="center" style="
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 3rem;
-  color: #39ff14;
-  text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;
-  animation: glitch 1s infinite;
-">
-  DUSA PRAHARSH
+<h1 align="center" style="font-family: 'Press Start 2P', cursive; font-size: 28px;">
+  🎮 Dusa Praharsh
 </h1>
 
-<h3 align="center" style="
-  font-family: monospace;
-  color: #fff;
-  text-shadow: 0 0 3px #0ff;
-">
-  Web3 Engineer | Game Developer | Digital World Architect
-</h3>
-
-<!-- 🎮 POWER-UPS (Unique Skill Section Name) -->
-<h2 align="center" style="
-  font-family: 'Courier New', Courier, monospace;
-  color: #ff0055;
-  text-shadow: 0 0 5px #ff0055;
-  font-size: 1.5rem;
-  margin-top: 40px;
-">
-  ⚡ POWER-UPS ⚡
-</h2>
-
-<p align="center" style="font-family: monospace; font-size: 18px; color: #39ff14;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40"/> Three.js &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/> Unity &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/> Solidity <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React.js &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> Next.js &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> C#
+<p align="center">
+  <em>Solidity Wizard • Game Dev with Unity • Web3 Builder • Full-Stack with Next.js</em>
 </p>
 
-<!-- 🌐 Socials in Retro Button Style -->
-<h3 align="center" style="
-  color: #fff;
-  font-family: 'Courier New', monospace;
-  margin-top: 40px;
-">
-  🌐 CONNECT
-</h3>
+<br/>
+
+<!-- 🔤 Animated About Me -->
+<h2><img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="20"/> About Me</h2>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=F7F726&center=false&vCenter=false&width=800&lines=I+build+arcade+experiences+with+code!;Blockchain+meets+Retro+Gaming.;Cyborg+who+codes+in+Solidity%2C+React%2C+and+C%23" />
+</p>
+
+---
+
+<!-- 🛠️ Tech Arsenal -->
+<h2>🕹️ My Arsenal</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+---
+
+<!-- 📡 Social Links -->
+<h2>👾 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://twitter.com/DusaPraharsh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
   <a href="https://github.com/DusaPraharsh" target="_blank">
-    <img src="https://i.imgur.com/5b1N3ak.gif" width="50" title="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/praharsh_dusa" target="_blank">
-    <img src="https://i.imgur.com/PS3YkjE.gif" width="50" title="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/dusa-praharsh/" target="_blank">
-    <img src="https://i.imgur.com/XGRPzFH.gif" width="50" title="LinkedIn" />
+  <a href="https://www.linkedin.com/in/dusapraharsh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<!-- 🌀 Glitch Animations -->
-<style>
-@keyframes glitch {
-  0% {
-    text-shadow: 1px 1px #ff0000, -1px -1px #00ffff;
-  }
-  25% {
-    text-shadow: -1px -1px #ff00ff, 1px 1px #00ffff;
-  }
-  50% {
-    text-shadow: 2px 2px #00ff00, -2px -2px #ff00ff;
-  }
-  75% {
-    text-shadow: -1px 1px #ffff00, 1px -1px #ff00ff;
-  }
-  100% {
-    text-shadow: 1px 1px #ff0000, -1px -1px #00ffff;
-  }
-}
-</style>
+---
+
+<!-- 👾 Font credit (optional for stylized look) -->
+<!-- Add this to your README.md on GitHub Pages for custom fonts:
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+-->
+
