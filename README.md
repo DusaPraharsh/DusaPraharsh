@@ -3,7 +3,7 @@
 
 <!-- 🧠 Retro Name Header with Flicker -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=F7F726&center=true&vCenter=true&width=800&lines=%F0%9F%8E%AE+Dusa+Praharsh;Designing+the+Future+in+Pixel+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=F7F726&center=true&vCenter=true&width=800&lines=%F0%9F%8E%AE+Dusa+Praharsh;Designing+the+Future+in+Block+Code" />
 </h1>
 
 ---
@@ -12,7 +12,7 @@
 <h2><img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="20"/> Who Am I?</h2>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&color=0AFFEF&width=800&lines=Pixel+Craftsman+in+Code+and+Design;Building+2D+Worlds+from+Scratch;Terminal+Tinkerer+%26+Retro+UX+Lover;Always+Shipping+Cool+Things+Online;Coding+with+Style,+Retro+Vibes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&color=0AFFEF&width=800&lines=Pixel+Craftsman+in+Code+and+Design;Building+2D+Worlds+from+Scratch;Terminal+Tinkerer+%26+Retro+UX+Lover;Still+Living+In+The+Retro+Era;Coding+with+Style,+Retro+Vibes" />
 </p>
 
 ---
