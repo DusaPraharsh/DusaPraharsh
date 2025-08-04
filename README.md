@@ -1,48 +1,90 @@
-<!-- 🎮 Retro Pixel Arcade Banner -->
+<!-- 🕹️ Retro Pixel Arcade Banner -->
 <p align="center">
   <img src="./retro.png" alt="Retro Banner" width="100%" />
 </p>
 
-<!-- 🕹️ Name + Role with blinking + CRT glitch effect -->
-<h1 align="center" style="font-family: 'Press Start 2P', cursive; color: #00ffea; animation: blink 1s infinite alternate; text-shadow: 0 0 5px #0ff;">
-  Dusa Praharsh
+<!-- 👾 Glitchy Arcade-Style Name -->
+<h1 align="center" style="
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 3rem;
+  color: #39ff14;
+  text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;
+  animation: glitch 1s infinite;
+">
+  DUSA PRAHARSH
 </h1>
 
-<h3 align="center" style="font-family: monospace; color: #fff; text-shadow: 0 0 5px #0ff;">
-  Solidity Developer | Game Developer | Full Stack Web3 Engineer
+<h3 align="center" style="
+  font-family: monospace;
+  color: #fff;
+  text-shadow: 0 0 3px #0ff;
+">
+  Web3 Engineer | Game Developer | Digital World Architect
 </h3>
 
-<!-- 🛠️ Skills with arcade-style HUD animation -->
-<p align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" />
+<!-- 🎮 POWER-UPS (Unique Skill Section Name) -->
+<h2 align="center" style="
+  font-family: 'Courier New', Courier, monospace;
+  color: #ff0055;
+  text-shadow: 0 0 5px #ff0055;
+  font-size: 1.5rem;
+  margin-top: 40px;
+">
+  ⚡ POWER-UPS ⚡
+</h2>
+
+<p align="center" style="font-family: monospace; font-size: 18px; color: #39ff14;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40"/> Three.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/> Unity &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/> Solidity <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> Next.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> C#
 </p>
 
-<p align="center" style="font-family: 'VT323', monospace; font-size: 18px; color: #39ff14;">
-  <span>🧠 Web3 Smart Contracts</span> |
-  <span>🎮 Unity & 2D Game Dev</span> |
-  <span>💻 React + Next.js</span> |
-  <span>🔐 Security Enthusiast</span>
-</p>
+<!-- 🌐 Socials in Retro Button Style -->
+<h3 align="center" style="
+  color: #fff;
+  font-family: 'Courier New', monospace;
+  margin-top: 40px;
+">
+  🌐 CONNECT
+</h3>
 
-<!-- 🎯 Animated social links - arcade UI style -->
-<h3 align="center" style="color: #fff; font-family: 'Press Start 2P'; margin-top: 40px;">Find me here</h3>
 <p align="center">
   <a href="https://github.com/DusaPraharsh" target="_blank">
-    <img src="https://i.imgur.com/5b1N3ak.gif" width="60" title="GitHub" />
+    <img src="https://i.imgur.com/5b1N3ak.gif" width="50" title="GitHub" />
   </a>
   <a href="https://twitter.com/praharsh_dusa" target="_blank">
-    <img src="https://i.imgur.com/PS3YkjE.gif" width="60" title="Twitter" />
+    <img src="https://i.imgur.com/PS3YkjE.gif" width="50" title="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/dusa-praharsh/" target="_blank">
-    <img src="https://i.imgur.com/XGRPzFH.gif" width="60" title="LinkedIn" />
+    <img src="https://i.imgur.com/XGRPzFH.gif" width="50" title="LinkedIn" />
   </a>
 </p>
 
-<!-- 🔄 Retro loading bar footer -->
+<!-- 🌀 Glitch Animations -->
+<style>
+@keyframes glitch {
+  0% {
+    text-shadow: 1px 1px #ff0000, -1px -1px #00ffff;
+  }
+  25% {
+    text-shadow: -1px -1px #ff00ff, 1px 1px #00ffff;
+  }
+  50% {
+    text-shadow: 2px 2px #00ff00, -2px -2px #ff00ff;
+  }
+  75% {
+    text-shadow: -1px 1px #ffff00, 1px -1px #ff00ff;
+  }
+  100% {
+    text-shadow: 1px 1px #ff0000, -1px -1px #00ffff;
+  }
+}
+</style>
+
+<!-- 🧪 CRT-style loading footer -->
 <p align="center">
-  <img src="https://i.imgur.com/oH6d3UE.gif" width="300" alt="Loading Bar" />
+  <img src="https://i.imgur.com/oH6d3UE.gif" width="300" alt="Loading CRT" />
 </p>
