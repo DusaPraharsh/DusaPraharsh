@@ -1,5 +1,5 @@
 <!-- 🎮 Pixel Banner -->
-<img src="./retro.png" width="100%" alt="Retro Banner" />
+<img src="./retro.mp4" width="100%" alt="Retro Banner" />
 
 <!-- 🧠 Retro Name Header with Flicker -->
 <h1 align="center">
